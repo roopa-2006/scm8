@@ -1,3 +1,3 @@
 # scm8
-linking between local and remote repository
-todat will going to learn this
+Linking between local and remote repository
+Today we will going to learn this
